@@ -140,14 +140,3 @@ O arquivo `projeto_rpa.db` contém duas tabelas:
 * **Formato do relatório**: modifique a função `generate_report` para gerar HTML ou outro layout.
 * **Servidor SMTP**: ajuste `EMAIL_HOST` e `EMAIL_PORT` para outros provedores (Outlook, Yahoo, etc.).
 
----
-
-## Contribuição
-
-Pull requests são bem-vindos. Para sugestões ou correções, crie uma issue descrevendo a proposta.
-
----
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
